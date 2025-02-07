@@ -12,7 +12,7 @@ Welcome to my **Movie Search App** project! This web application, built with **R
 - **React**: For building the user interface.
 - **Tailwind CSS**: For quick and customizable styling.
 - **Vite**: As a fast and modern development environment.
-- **The Movie Database (TMDb) API**: To fetch up-to-date movie data.
+- **The OMDb API**: To fetch up-to-date movie data.
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/d09dc417-0dc7-46c2-af5b-5172ef7b3d27)
